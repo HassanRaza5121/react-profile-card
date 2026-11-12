@@ -22,6 +22,6 @@ export const profile: Profile = {
   ],
   email: "hassanraza.rashid5@gmail.com",
   github: "https://github.com/HassanRaza5121",
-  linkedin: "linkedin.com/in/hassan-raza-436398222",
+  linkedin: "https://linkedin.com/in/hassan-raza-436398222",
   resume: "/Hassan_Raza_Resume_AIEngineer_MLOps.pdf",
 };
